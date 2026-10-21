@@ -48,10 +48,6 @@ Release notes for each version are in [Releases](../../releases). A running hist
 - Husk needs a company account to sign in. There is no guest mode.
 - Your documents and data stay on your computer.
 
-## License
-
-Husk is source-available under the Business Source License 1.1. This repository contains release files only, not source code.
-
 ---
 
 <p align="center"><sub>© Husk AI</sub></p>
